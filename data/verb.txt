@@ -1,0 +1,13 @@
+Cauterization
+Suction
+Staple
+Grasping
+Ultrasound_Sensing
+Looping
+Tissue_Manipulation
+Idle
+Tool_Manipulation
+Suturing
+Cutting
+Clipping
+Retraction
