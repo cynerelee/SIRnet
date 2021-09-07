@@ -7,6 +7,7 @@ Transformers: 2.6.0
 tqdm
 numpy
 sklearn
+einops
 ```
 The code will be updated when the paper is accepted.
 
